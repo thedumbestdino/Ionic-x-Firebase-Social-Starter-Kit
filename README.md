@@ -6,14 +6,12 @@ Login Screen             |  Register Screen
 :-------------------------:|:-------------------------:
 ![](https://thedumbestdino.com/images/1.png  |  ![](https://thedumbestdino.com/images/3.png)
 
-![Alt text](https://thedumbestdino.com/images/2.png "Password Recovery Screen")
-
 # Features: #
-*Firebase email login and registration
-*Forgot password / email recovery system
-*Google account sign-up/login system
-*Facebook account sign-up/login 
-*Simple and easy to customize.
+1. Firebase email login and registration
+2. Forgot password / email recovery system
+3. Google account sign-up/login system
+4. Facebook account sign-up/login 
+5. Simple and easy to customize.
 
 
 ## How to use this template
