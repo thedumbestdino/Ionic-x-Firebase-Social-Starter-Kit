@@ -4,7 +4,7 @@ The systems flexibility allows you to reuse the template through multiple projec
 
 Login Screen             |  Register Screen
 :-------------------------:|:-------------------------:
-![](https://thedumbestdino.com/images/1.png  |  ![](https://thedumbestdino.com/images/3.png)
+Markup ![](https://thedumbestdino.com/images/1.png  |  ![](https://thedumbestdino.com/images/3.png)
 
 # Features: #
 1. Firebase email login and registration
