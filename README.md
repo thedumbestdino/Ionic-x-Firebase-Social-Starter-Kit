@@ -2,7 +2,17 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) and goog
 This template allows you to save countless hour recreating a user account system. 
 The systems flexibility allows you to reuse the template through multiple projects at a time
 
-Current features include
+![Alt text](https://thedumbestdino.com/images/1.png "Login Screen")
+![Alt text](https://thedumbestdino.com/images/2.png "Password Recovery Screen")
+![Alt text](https://thedumbestdino.com/images/3.png "Registration Screen")
+
+Features:
+** Firebase email login and registration
+** Forgot password / email recovery system
+** Google account sign-up/login system
+** Facebook account sign-up/login 
+** Simple and easy to customize.
+
 
 ## How to use this template
 
