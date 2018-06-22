@@ -1,4 +1,8 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+This is a starter template for [Ionic](http://ionicframework.com/docs/) and google's firebase projects.
+This template allows you to save countless hour recreating a user account system. 
+The systems flexibility allows you to reuse the template through multiple projects at a time
+
+Current features include
 
 ## How to use this template
 
@@ -33,3 +37,5 @@ For run the project
  $ ionic serve
 ```
 Substitute ios for android if not on a Mac.
+
+Insert your firebase config details into src/app/app.module.ts (lines 26-31)
