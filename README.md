@@ -1,10 +1,11 @@
 This is a starter template for [Ionic](http://ionicframework.com/docs/) and google's firebase projects.
 This template allows you to save countless hour recreating a user account system. 
-The systems flexibility allows you to reuse the template through multiple projects at a time
+The systems flexibility allows you to reuse the template through multiple projects at a time.
 
-Login Screen             |  Register Screen
+Login Screen               |  Register Screen
 :-------------------------:|:-------------------------:
-Markup ![](https://thedumbestdino.com/images/1.png  |  ![](https://thedumbestdino.com/images/3.png)
+![](https://thedumbestdino.com/images/1.png)  |  ![](https://thedumbestdino.com/images/3.png)
+
 
 # Features: #
 1. Firebase email login and registration
